@@ -11,7 +11,7 @@ Este projeto foi construído colaborativamente pelos integrantes abaixo:
 - **Thiago Kovalski**
   - [Thig0S GitHub](https://github.com/Thig0S)
 - **Victor Jeremias**
-  - ([VictorJer](https://github.com/VictorJer))
+  - ([VictorJer GitHub](https://github.com/VictorJer))
 
 ---
 
