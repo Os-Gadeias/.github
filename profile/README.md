@@ -1,6 +1,6 @@
 # 🚀 Os Gadeias
 
-A dupla que vai batar de frente com as meninas e o Pedro/Marco - OS GADEIAS - do Curso _Academia do Programador_!
+A dupla que vai bater de frente com DotSisters, PingDev e Os netos do Velho Barreiro - OS GADEIAS - do Curso _Academia do Programador_!
 ---
 
 ## 👥 A Dupla
