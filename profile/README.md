@@ -1,17 +1,16 @@
 # 🚀 Os Gadeias
 
-A melhor dupla que _Nunca Existiu_ do Curso _Academia do Programador_ pois se existisse, seria a melhor dupla possível!
-
+A dupla que vai batar de frente com as meninas e o Pedro/Marco - OS GADEIAS - do Curso _Academia do Programador_!
 ---
 
 ## 👥 A Dupla
 
-Este projeto foi construído colaborativamente pelos integrantes abaixo:
+Projetos construídos colaborativamente pelos integrantes abaixo:
 
 - **Thiago Kovalski**
   - [Thig0S GitHub](https://github.com/Thig0S)
 - **Victor Jeremias**
-  - ([VictorJer GitHub](https://github.com/VictorJer))
+  - [VictorJer GitHub(https://github.com/VictorJer))
 
 ---
 
@@ -19,15 +18,14 @@ Este projeto foi construído colaborativamente pelos integrantes abaixo:
 
 - **Linguagem:** C# (.NET, ASP.NET)
 - **Banco de Dados:** [SQL Server]
-- **Tecnologias:** Dapper, Entity, Loggin, 
+- **Tecnologias:** Dapper, Entity, SeriLog, NewRelic
 - **Arquitetura:** [Arquiterura de 3 camadas, utilizando MVC]
 
 ---
 
 ## 🎯 Sobre a Dupla
 
-SE DEUS E O ALEXANDRE RECH QUISEREM A DUPLA OS GADEIAS SAIRA DO PAPEL E FINALMENTE TESTEMUNHARA A SUA GLÓRIA
-
+08/07/2026 - Alexandre Rech The Greatest compareceu a call e deu a notícia oficial que OS GADEIAS sairam do papel
 
 ---
 
