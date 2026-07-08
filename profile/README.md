@@ -1,7 +1,7 @@
 # 🚀 Os Gadeias
 
-## A dupla que vai bater de frente com DotSisters, PingDev e Os netos do Velho Barreiro - 
-## OS GADEIAS - da Curso _Academia do Programador_!
+## A dupla que vai bater de frente com PingDev, Os netos do Velho Barreiro e DotSisters!
+### OS GADEIAS 🐐 - _Academia do Programador_!
 
 ## 👥 A Dupla
 
@@ -24,12 +24,9 @@ Projetos construídos colaborativamente pelos integrantes abaixo:
 ---
 
 ## 🎯 Sobre a Dupla
-
-
+<h3 style="margin-bottom: 30px;">08/07/2026 - Alexandre Rech The Greatest compareceu a call e deu a notícia oficial que OS GADEIAS sairam do papel </h3>
 
 <div align="center">
-  **08/07/2026 - Alexandre Rech The Greatest compareceu a call e deu a notícia oficial que OS GADEIAS sairam do papel**
-</br>
   <img src="../img/rechkawai.png" alt="Descrição da Imagem" width="500"/>
 </div>
 
