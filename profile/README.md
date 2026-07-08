@@ -28,6 +28,7 @@ Projetos construídos colaborativamente pelos integrantes abaixo:
 
 <div align="center">
   **08/07/2026 - Alexandre Rech The Greatest compareceu a call e deu a notícia oficial que OS GADEIAS sairam do papel**
+</br>
   <img src="../img/rechkawai.png" alt="Descrição da Imagem" width="500"/>
 </div>
 
