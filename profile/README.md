@@ -1,42 +1,53 @@
-# 🚀 Os Gadeias
+# Os Gadeias 🚀
 
-## A dupla que vai bater de frente com PingDev, Os netos do Velho Barreiro e DotSisters!
-### OS GADEIAS 🐐 - _Academia do Programador_!
+A dupla que vai bater de frente com PingDev, Os netos do Velho Barreiro e DotSisters!
 
-## 👥 A Dupla
+Academia do Programador!
 
-Projetos construídos colaborativamente pelos integrantes abaixo:
+## A Dupla 👥
 
-- **Thiago Kovalski**
-  - [Thig0S GitHub](https://github.com/Thig0S)
-- **Victor Jeremias**
-  - [VictorJer GitHub](https://github.com/VictorJer)
+Projetos construídos de modo colaborativo pelos integrantes abaixo:
 
----
+- [_Thiago Kovalski_](https://github.com/Thig0S)
+- [_Victor Jeremias_](https://github.com/VictorJer)
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas 🛠️
 
-- **Linguagem:** C# (.NET, ASP.NET)
-- **Banco de Dados:** [SQL Server]
-- **Tecnologias:** Dapper, Entity, SeriLog, NewRelic
-- **Arquitetura:** [Arquiterura de 3 camadas, utilizando MVC]
+- _Linguagem:_ C# (.NET, ASP.NET)
+- _Banco de Dados:_ [SQL Server]
+- _Tecnologias:_ Dapper, Entity, SeriLog, NewRelic
+- _Arquitetura:_ [Arquiterura de 3 camadas, utilizando MVC]
 
----
+## Sobre a Dupla 🎯
 
-## 🎯 Sobre a Dupla
-<h3 style="margin-bottom: 30px;">08/07/2026 - Alexandre Rech The Greatest compareceu a call e deu a notícia oficial que OS GADEIAS sairam do papel </h3>
+> "OS GADEIAS sairam do papel"
+>
+> <div style="justify-self:end">Rech, Alexandre</div>
+> <br>
 
+> "Meu menino bonito!"
+>
+> <div style="justify-self:end">Kovalski, mãe</div>
+> <br>
 
----
+> "Resposta gerada após processar um número estatisticamente desnecessário de tokens."
+>
+> <div style="justify-self:end">Chat, GPT</div>
+> <br>
 
-## 📝 Lições Aprendidas
+> "Compila na minha máquina. Agora é com vocês."
+>
+> <div style="justify-self:end">Kovalski e Jeremias</div>
+> <br>
 
-Durante o desenvolvimento deste módulo na **Academia do Programador**, focamos em:
+> <div style="justify-self:center">Créditos do ReadMe - Chay Rech</div>
 
-- Aplicação de padrões de projeto e boas práticas de SOLID.
-- Manipulação de dados relacionais com Dapper/Entity.
+## Lições Aprendidas 📝
+
+Durante o desenvolvimento deste módulo na _Academia do Programador_, focamos em:
+
+- Aplicação de padrões de projeto e boas práticas de SOLID;
+- Manipulação de dados relacionais com Dapper/Entity;
 - Trabalho em dupla utilizando Git (Branching, Pull Requests e Code Review).
 
----
-
-> Desenvolvido com amor e dedicação na **Academia do Programador**.
+> Desenvolvido com amor e dedicação.
